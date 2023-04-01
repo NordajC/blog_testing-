@@ -1,0 +1,21 @@
+
+
+{
+	"posts": [
+		{
+			"title": "My First Blog Post",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"date": "2023-03-31"
+		},
+		{
+			"title": "My Second Blog Post",
+			"description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"date": "2023-03-30"
+		},
+		{
+			"title": "My Third Blog Post",
+			"description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"date": "2023-03-29"
+		}
+	]
+}
